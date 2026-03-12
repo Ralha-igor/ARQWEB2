@@ -1,0 +1,12 @@
+import -> general -> existing...
+
+bash prepare-database.sh
+
+^^ conectar banco de dados
+
+
+Controler cuida das validações de entradas
+
+Busines cuida da regra de negocio
+
+
